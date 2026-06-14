@@ -37,10 +37,6 @@ The project includes interactive dashboards and primary analysis to support data
 
 ![Executive Summary](Screenshots/ExecutiveSummary.png)
 
-### Primary Analysis - Q7
-
-![Q7 Analysis](Screenshots/Q7.png)
-
 ## Key Insights
 
 - Delhi emerged as the highest-risk region with consistently high AQI levels.
