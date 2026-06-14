@@ -35,7 +35,7 @@ The project includes interactive dashboards and primary analysis to support data
 
 ### Executive Summary
 
-![Executive Summary](Executive Summary.png)
+![Executive Summary](Executive%20Summary.png)
 
 ## Key Insights
 
