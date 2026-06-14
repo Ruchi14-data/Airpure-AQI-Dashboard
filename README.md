@@ -19,23 +19,23 @@ The project includes interactive dashboards and primary analysis to support data
 
 ### Home Dashboard
 
-![Home Dashboard](Screenshots/Home.png)
+![Home Dashboard](Home.png)
 
 ### AQI Analysis
 
-![AQI Analysis](Screenshots/AQI.png)
+![AQI Analysis](AQI.png)
 
 ### Health Analysis
 
-![Health Analysis](Screenshots/Health.png)
+![Health Analysis](Health.png)
 
 ### Vehicle Impact Analysis
 
-![Vehicle Impact Analysis](Screenshots/Vehicles.png)
+![Vehicle Impact Analysis](Vehicle.png)
 
 ### Executive Summary
 
-![Executive Summary](Screenshots/ExecutiveSummary.png)
+![Executive Summary](Executive Summary.png)
 
 ## Key Insights
 
